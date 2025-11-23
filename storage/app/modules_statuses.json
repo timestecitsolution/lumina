@@ -1,0 +1,15 @@
+{
+    "UniversalBundle": true,
+    "Letter": true,
+    "Payroll": true,
+    "RestAPI": true,
+    "Recruit": true,
+    "EInvoice": true,
+    "Purchase": true,
+    "ProjectRoadmap": true,
+    "Performance": true,
+    "LanguagePack": true,
+    "Asset": true,
+    "Sms": true,
+    "Biometric": true
+}

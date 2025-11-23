@@ -1,0 +1,64 @@
+# =====================
+# OS / Editor Files
+# =====================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.env
+*.vscode/
+.idea/
+
+# =====================
+# PHP / Laravel
+# =====================
+vendor/
+node_modules/
+public/storage
+/storage/*.key
+.env
+.phpunit.result.cache
+Homestead.yaml
+Homestead.json
+.env.backup
+
+# =====================
+# Composer / NPM
+# =====================
+composer.lock
+package-lock.json
+yarn.lock
+
+# =====================
+# Cache / Temporary files
+# =====================
+*.cache
+*.tmp
+*.swp
+*.swo
+
+# =====================
+# OS System Files
+# =====================
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# =====================
+# IDE / Editor
+# =====================
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
+
+# =====================
+# Laravel specific
+# =====================
+storage/*.key
+storage/framework/cache/data
+storage/framework/sessions
+storage/framework/views
+storage/logs
+bootstrap/cache/*.php
+
